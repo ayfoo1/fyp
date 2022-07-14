@@ -28,10 +28,9 @@ The following steps are done for veris dataset (More info can be found here http
   4) Get all asset loss entries (in many different currencies)
      Convert all to USD
 
-
-     Analysis: Visualise trends; 
-     How is the damage(asset loss) influenced by company size, incident type and incident year?
-     -Bigger company = greater damager?
-     -Hacking = greater damager?
-     -More recent(better tools/technologies) = greater damage?
-     -Does company revenue influence type of incident?
+Analysis: Visualise trends
+How is the damage(asset loss) influenced by company size, incident type and incident year?
+-Bigger company = greater damager?
+-Hacking = greater damager?
+-More recent(better tools/technologies) = greater damage?
+-Does company revenue influence type of incident?
