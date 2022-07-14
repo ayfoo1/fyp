@@ -9,7 +9,7 @@ Veris dataset preprocess and visualisation:
 
 Dataset is curated in a way that all non-numerical column values are treated as a column with a true/false value.
 
-Example:
+Example:\
 Normal dataset:\
 Column: food\
 Column value: rice, noodles, bread
@@ -19,7 +19,7 @@ Column: food.rice, food.noodles, food.bread\
 Column value: true,false
 
 
-
+**Steps to perform on data:**\
   1) Select features to look into (revenue, incident type, incident year, employee count, assets lost) 
 
   Preprocess: get each feature into a column and combine all columns to get the proper dataframe for visualisation
@@ -34,15 +34,14 @@ Column value: true,false
 
   4) Get all asset loss entries (in many different currencies)
      Convert all to USD
+  
+
+
 
 Analysis: Visualise trends
 
-How is the damage(asset loss) influenced by company size, incident type and incident year?
-
--Bigger company = greater damager?
-
--Hacking = greater damager?
-
--More recent(better tools/technologies) = greater damage?
-
--Does company revenue influence type of incident?
+How is the damage(asset loss) influenced by company size, incident type and incident year?\
+&nbsp;-Bigger company = greater damager?\
+&nbsp;-Hacking = greater damager?\
+&nbsp;-More recent(better tools/technologies) = greater damage?\
+&nbsp;-Does company revenue influence type of incident?
