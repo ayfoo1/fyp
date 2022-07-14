@@ -5,11 +5,11 @@ For the hackmageddon and github databreach dataset, ths visualisations are strai
 For the Veris dataset, data wrangling is needed to reformat the data in order to conduct visualisations. 
 The following steps are done for veris dataset (More info can be found here http://veriscommunity.net/vcdb.html):
 
-   Veris dataset preprocess and visualisation:
+Veris dataset preprocess and visualisation:
 
-   Dataset is curated in a way that all non-numerical column values are treated as a column with a true/false value.
-   Example:  normal dataset > Column: food 					Column value: rice, noodles, bread
-	     veris dataset  > Column: food.rice, food.noodles, food.bread	Column value: true,false
+Dataset is curated in a way that all non-numerical column values are treated as a column with a true/false value.
+Example:  normal dataset > Column: food 				Column value: rice, noodles, bread
+	  veris dataset  > Column: food.rice, food.noodles, food.bread	Column value: true,false
 
 
 
