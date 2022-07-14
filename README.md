@@ -11,7 +11,7 @@ Dataset is curated in a way that all non-numerical column values are treated as 
 
 Example:
 normal dataset:
-Column: food 				&emsp;&emsp; Column value: rice, noodles, bread
+Column: food 				&emsp;&emsp;&emsp;&emsp;&emsp; Column value: rice, noodles, bread
 
 veris dataset:
 Column: food.rice, food.noodles, food.bread     &emsp;&emsp; Column value: true,false
