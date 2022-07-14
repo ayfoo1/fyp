@@ -16,7 +16,7 @@ Column value: rice, noodles, bread
 
 veris dataset:
 Column: food.rice, food.noodles, food.bread
-Column value: true,false
+&emsp;Column value: true,false
 
 
 
