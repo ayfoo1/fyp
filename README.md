@@ -19,10 +19,10 @@ Column: food.rice, food.noodles, food.bread\
 Column value: true,false
 
 
-**Steps to perform on data:**\
+**Steps to perform on data:**
   1) Select features to look into (revenue, incident type, incident year, employee count, assets lost) 
 
-  Preprocess: get each feature into a column and combine all columns to get the proper dataframe for visualisation
+  **Preprocess**: get each feature into a column and combine all columns to get the proper dataframe for visualisation
 
   2) Get all revenue entries (in many different currencies)
      Convert all currencies to USD
@@ -38,7 +38,7 @@ Column value: true,false
 
 
 
-Analysis: Visualise trends
+**Analysis**: Visualise trends
 
 How is the damage(asset loss) influenced by company size, incident type and incident year?\
 &nbsp;-Bigger company = greater damager?\
