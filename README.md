@@ -8,8 +8,10 @@ The following steps are done for veris dataset (More info can be found here http
 Veris dataset preprocess and visualisation:
 
 Dataset is curated in a way that all non-numerical column values are treated as a column with a true/false value.
-Example:  normal dataset > Column: food 				Column value: rice, noodles, bread
-	  veris dataset  > Column: food.rice, food.noodles, food.bread	Column value: true,false
+Example:  
+normal dataset > Column: food 				
+			Column value: rice, noodles, bread
+veris dataset  > Column: food.rice, food.noodles, food.bread	Column value: true,false
 
 
 
