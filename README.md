@@ -1,7 +1,9 @@
 Codes are in ipynb file.
 
-For the hackmageddon and github databreach dataset, the visualisations are straightforward.\
-
+For the hackmageddon and github databreach dataset, the visualisations are straightforward.
+\
+\
+\
 **Veris dataset**
 
 For the Veris dataset, data wrangling is needed to reformat the data in order to conduct visualisations. 
