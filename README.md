@@ -38,13 +38,7 @@ Column value: true,false
 
   4) Get all asset loss entries (in many different currencies)
      Convert all to USD
-  
-
-
 
 **Analysis**: Visualise trends
 
-How is the damage(asset loss) influenced by company size, incident type and incident year?\
-&nbsp;-Bigger company = greater damager?\
-&nbsp;-Hacking = greater damager?\
-&nbsp;-Does company revenue influence type of incident?
+
