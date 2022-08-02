@@ -47,5 +47,4 @@ Column value: true,false
 How is the damage(asset loss) influenced by company size, incident type and incident year?\
 &nbsp;-Bigger company = greater damager?\
 &nbsp;-Hacking = greater damager?\
-&nbsp;-More recent(better tools/technologies) = greater damage?\
 &nbsp;-Does company revenue influence type of incident?
