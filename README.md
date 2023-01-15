@@ -1,6 +1,6 @@
 
 Codes are in ipynb file.\
-Visualisations are in pbix file.\
+Visualisations are in pbix file.
 
 For the Veris dataset, data wrangling is needed to reformat the data in order to conduct visualisations. 
 The following steps are done for veris dataset (More info can be found here http://veriscommunity.net/vcdb.html):
