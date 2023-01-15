@@ -29,6 +29,6 @@ Column value: true,false
   4) Get all asset loss entries (in many different currencies)
      Convert all to USD
 
-**Analysis**: Visualise trends
+**Analysis**: Visualise trends in PowerBI
 
 
