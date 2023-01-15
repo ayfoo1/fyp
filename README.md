@@ -17,16 +17,13 @@ Column value: true,false
 
 
 **Steps to perform on data:**
-  1) Select features to look into (revenue, incident type, incident year, employee count, assets lost) 
+  1) Select features to look into (incident type, incident year, employee size, assets lost) 
 
   **Preprocess**: get each feature into a column and combine all columns to get the proper dataframe for visualisation
 
-  2) Get all revenue entries (in many different currencies)
-     Convert all currencies to USD
+  2) Get the average employee size as employee count is only given in ranges(eg. 1-100)
 
-  3) Get the average employee count as employee count is only given in ranges(eg. 1-100)
-
-  4) Get the incident types(total 7) which also has many subtypes for each of the 7 types, 
+  3) Get the incident types which also has many subtypes for each type, 
      located in column 'action. <incident type> .variety. <incident subtype>'
 
   4) Get all asset loss entries (in many different currencies)
